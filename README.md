@@ -45,24 +45,24 @@ Ensure you have the following installed on your system:
 ### Steps
 
 1. **Clone the repository:**
-   ```sh
+  
    git clone https://github.com/your-username/movie-database.git
-   ```sh
+   
 
 2. **Navigate to the project directory:**
-   ```sh
+   
    cd movie-database
-   ```sh
+   
    
 3. **Compile the project:**
-   ```sh
+   
    g++ main.cpp -o movie-database
-   ```sh
+   
    
 4. **Run the executable:**
-   ```sh
+   
    ./movie-database
-   ```sh
+  
    
 ### Running the Application
 
